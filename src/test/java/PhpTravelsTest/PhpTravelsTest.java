@@ -20,7 +20,7 @@ public class PhpTravelsTest {
 	}
 
 	@Test
-	public void deveAdicionarUsuario() {
+	public void testarCadastroUsuarioComSucesso() {
 
 		UsuariosPage usuarioPage = new UsuariosPage(this.driver);
 
@@ -29,7 +29,7 @@ public class PhpTravelsTest {
 
 		UsuarioDto usuarioDto = new UsuarioDto();
 
-		usuarioDto.setEmail("jessila4@jessila.com");
+		usuarioDto.setEmail("jessila123@jessila.com");
 		usuarioDto.setNome("Jessila");
 		usuarioDto.setUltimoNome("Souza");
 		usuarioDto.setSenha("TESTE123");

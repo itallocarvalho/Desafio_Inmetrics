@@ -24,3 +24,15 @@ Enviar via POSTMAN ou outro programa que realiza comunicação via HTTP,
 uma requisição GET para a URL:
 
 [localhost:8080]/atividades/listarConcluidas
+
+-----------------------------------------------------------------------
+
+Desafio WEbSite
+
+
+Clicar com o botão direito na classe PhpTravelsTest e executar o JUnitTest.
+
+
+
+
+
