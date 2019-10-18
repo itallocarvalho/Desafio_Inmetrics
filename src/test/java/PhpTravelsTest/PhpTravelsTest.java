@@ -48,7 +48,7 @@ public class PhpTravelsTest {
 
 	@After
 	public void encerra() {
-		this.driver.close();
+	//	this.driver.close();
 	}
 
 }
